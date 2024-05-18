@@ -19,13 +19,13 @@ Este proyecto es un programa en Java que permite convertir valores entre diferen
 1. Clona este repositorio en tu máquina local.
 
     ```bash
-    git clone https://github.com/tu_usuario/conversor-divisas.git
+    git clone https://github.com/tu_usuario/ConversorDeMonedaChallenge.git
     ```
 
 2. Navega al directorio del proyecto.
 
     ```bash
-    cd conversor-divisas
+    cd ConversorDeMonedaChallenge
     ```
 
 3. Compila las clases Java.
